@@ -1,0 +1,7 @@
+identityHost: http://localhost
+
+identityPort: 5050
+
+wsHost: http://localhost
+
+wsPort: 3000
